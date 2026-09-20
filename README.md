@@ -2,19 +2,11 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:4f46e5&height=230&section=header&text=DEEKSHITH%20K&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Information%20Science%20%7C%20Full-Stack%20%7C%20AI%20%7C%20Systems&descAlignY=58&descSize=18"/>
 
-<h1>Hey, I'm Deekshith 👋</h1>
-
-<p>
-<b>Information Science & Engineering Student</b>
-</p>
-
-<p>
-I build full-stack applications, AI-powered systems, cybersecurity tools,
 <br>
-and developer-focused projects while continuously learning new technologies.
-</p>
 
-<br>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=19&duration=5500&pause=1500&color=8B949E&center=true&vCenter=true&multiline=false&repeat=true&width=850&height=45&lines=I+love+matching+creative+vision+with+practical%2C+logical+solutions.;For+me%2C+tech+is+all+about+exploring+new+tools+and+making+ideas+work." />
+
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Deekshith2205&style=for-the-badge&color=4f46e5&label=PROFILE+VIEWS"/>
 
@@ -26,9 +18,7 @@ and developer-focused projects while continuously learning new technologies.
 
 <h2>👨‍💻 About Me</h2>
 
-</div>
-
-<div align="center">
+<br>
 
 <pre>
 ┌──────────────────────────────────────────────────────────────────────┐
@@ -66,6 +56,18 @@ and developer-focused projects while continuously learning new technologies.
 
 <div align="center">
 
+<h2>📊 GitHub Analytics</h2>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Deekshith2205&hide_border=false&background=0D1117&ring=007BFF&fire=007BFF&currStreakLabel=007BFF&sideLabels=007BFF&currStreakNum=007BFF&sideNums=007BFF&dates=4B8BBE" />
+
+</div>
+
+<hr>
+
+<div align="center">
+
 <h2>🌐 Connect With Me</h2>
 
 <br>
@@ -81,8 +83,6 @@ and developer-focused projects while continuously learning new technologies.
 </a>
 
 </div>
-
-<br>
 
 <hr>
 
@@ -116,8 +116,4 @@ and developer-focused projects while continuously learning new technologies.
 
 <br>
 
-<div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:312e81,100:0f172a&height=150&section=footer"/>
-
-</div>
