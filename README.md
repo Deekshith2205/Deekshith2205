@@ -66,42 +66,6 @@ and developer-focused projects while continuously learning new technologies.
 
 <div align="center">
 
-<h2>🛠️ Tech Stack</h2>
-
-<h3>💻 Languages</h3>
-
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp,c"/>
-
-<br><br>
-
-<h3>🎨 Frontend</h3>
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind"/>
-
-<br><br>
-
-<h3>⚙️ Backend</h3>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
-
-<br><br>
-
-<h3>🗄️ Databases</h3>
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb"/>
-
-<br><br>
-
-<h3>🔧 Tools & Platforms</h3>
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux"/>
-
-</div>
-
-<hr>
-
-<div align="center">
-
 <h2>🌐 Connect With Me</h2>
 
 <br>
